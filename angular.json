@@ -101,10 +101,13 @@
       }
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
   },
   "cli": {
     "analytics": "de904fd6-1cf6-48a0-94fd-3a6d885a1d1a"
 =======
 >>>>>>> origin/Mohammed
+=======
+>>>>>>> e2de6b4c69ef07fd6ccc0a20b73f1a4c3fe841ea
   }
 }
