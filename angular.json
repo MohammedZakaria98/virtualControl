@@ -100,8 +100,11 @@
         }
       }
     }
+<<<<<<< HEAD
   },
   "cli": {
     "analytics": "de904fd6-1cf6-48a0-94fd-3a6d885a1d1a"
+=======
+>>>>>>> origin/Mohammed
   }
 }
